@@ -1,1 +1,1 @@
-# Small systems engineering projects
+# Small systems engineering example
