@@ -105,3 +105,9 @@ The system operates on an Arduino Uno.
 | NFR-001–005 | Performance & constraints|
 
 ---
+
+
+
+## 📄 Documentation
+
+- [AI SRS Guide](/small_SE_projects/docs/AI_SRS_GUIDE.md)
